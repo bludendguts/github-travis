@@ -2,5 +2,5 @@
     TODO: Simulated Test Spec
  */
 
-// intentionally mock a passing test
-process.exit(0);
+// intentionally mock a failing test
+process.exit(1);
