@@ -1,0 +1,7 @@
+{
+  "name": "github-travis",
+  "description": "A begginers guide to github & travis-ci",
+  "scripts":{
+    "test": "node test.js"
+  }
+}
